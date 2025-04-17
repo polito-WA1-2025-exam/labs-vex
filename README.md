@@ -1,11 +1,12 @@
 # Group "GROUP NAME"
 
 ## Members
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
+
+- s336879 Demirtas Efe
 
 # Exercise "NAME OF EXERCISE"
+
+- Poke
 
 # Lab Journal
 
