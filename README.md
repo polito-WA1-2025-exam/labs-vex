@@ -14,16 +14,16 @@ The application needs to satisfy the following requirements.
 Poke bowls can be of three different sizes: Regular, Medium, or Large (R, M, L). Each bowl has one base
 and can be ordered by choosing between different amounts of proteins and ingredients, according to
 the bowl size:
-● Regular bowls include one protein and up to 4 ingredients (minimum 1, optionally repeated).
-● Medium bowls include two proteins and up to 4 ingredients (minimum 1, optionally repeated).
-● Large bowls include three proteins and up to 6 ingredients (minimum 1, optionally repeated).
+
+- Regular bowls include one protein and up to 4 ingredients (minimum 1, optionally repeated).
+- Medium bowls include two proteins and up to 4 ingredients (minimum 1, optionally repeated).
+- Large bowls include three proteins and up to 6 ingredients (minimum 1, optionally repeated).
 
 Specifically users will have these options:
 
-● Bases are rice, black rice, salad.
-● Proteins are tuna, chicken, salmon, tofu.
-● Ingredients are avocado, ananas, cashew nuts, kale, mango, peppers, corn, wakame, tomatoes,
-carrots, salad.
+- Bases are rice, black rice, salad.
+- Proteins are tuna, chicken, salmon, tofu.
+- Ingredients are avocado, ananas, cashew nuts, kale, mango, peppers, corn, wakame, tomatoes, carrots, salad.
 
 An order may contain one or more bowls. Several bowls with the same size, proteins, and ingredients
 can be selected by simply modifying a suitable counter while ordering: for example, it must be possible
@@ -65,10 +65,10 @@ the students.
 
 ### Important notes
 
-● The price has to be computed on the client side and in real time while users proceed in their
-order. The final price has to be checked server side.
-● The order should contain an optional text input where users can specify special requests or
-allergies.
+- The price has to be computed on the client side and in real time while users proceed in their
+  order. The final price has to be checked server side.
+- The order should contain an optional text input where users can specify special requests or
+  allergies.
 
 # Lab Journal
 
